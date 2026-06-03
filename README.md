@@ -91,4 +91,4 @@ Developed a Customer Segmentation Dashboard to identify distinct customer groups
 
 ## Dashboard Preview
 
-![Customer Segmentation Dashboard]()
+![Customer Segmentation Dashboard](https://github.com/saisahithya19-ctrl/customer-segmentation-analysis/blob/main/Customer%20Segmentation%20Dashboard.png)
